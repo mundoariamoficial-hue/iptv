@@ -120,8 +120,8 @@ https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 https://www.chasquirouter.com/salida/sd/trivu.m3u8
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe@SD",Turbo Mix Radio TV (360p) [Not 24/7]
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-#EXTINF:-1 tvg-id="TVCosmos.pe@SD",TV Cosmos (720p) [Not 24/7]
-https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCosmos.pe@SD",Cosmos Perú (720p) [GEO 24/7]
+https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/chunks.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe@SD",TV Peru (1080p)
 #EXTVLCOPT:http-referrer=http://tvperu.gob.pe/
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
@@ -163,3 +163,4 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe@SD",Exitosa TV (720p) [Not 24/7]
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
+
