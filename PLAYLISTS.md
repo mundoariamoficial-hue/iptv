@@ -802,6 +802,7 @@ Same thing, but split up into separate files:
   - Itapua <code>https://iptv-org.github.io/iptv/subdivisions/py-7.m3u</code>
     - Encarnacion <code>https://iptv-org.github.io/iptv/cities/pyeno.m3u</code>
 - 🇵🇪 Peru <code>https://iptv-org.github.io/iptv/countries/pe.m3u</code>
+- 🇵🇪  (MODIFIED) Peru <code>https://iptv-org.github.io/iptv/countries/pe_modified.m3u</code>
   - Arequipa <code>https://iptv-org.github.io/iptv/subdivisions/pe-are.m3u</code>
     - Arequipa <code>https://iptv-org.github.io/iptv/cities/peaqp.m3u</code>
   - Junin <code>https://iptv-org.github.io/iptv/subdivisions/pe-jun.m3u</code>
@@ -1374,3 +1375,4 @@ Also, any of our internal playlists are available in raw form (without any filte
 ```
 https://iptv-org.github.io/iptv/raw/<FILENAME>.m3u
 ```
+
